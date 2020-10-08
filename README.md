@@ -1,4 +1,4 @@
-## simple-client-server
+# simple-client-server
 
 A simple client server project. 
 The client simply reads the user input from the terminal and sends it to the server. 
